@@ -1,0 +1,5 @@
+0 cbb
+1 cbsd
+2 cgm
+3 cmd
+4 healthy
